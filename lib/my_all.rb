@@ -10,6 +10,8 @@ while index < collection.length
 
      index += 1 
    end
+   
+   true
 end
 
 collection = [1, 2, 3]
