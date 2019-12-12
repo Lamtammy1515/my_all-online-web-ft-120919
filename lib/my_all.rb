@@ -8,8 +8,8 @@ while index < collection.length
            return false 
     end 
 
-index += 1 
-end
+     index += 1 
+   end
 end
 
 collection = [1, 2, 3]
